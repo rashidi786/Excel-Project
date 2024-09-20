@@ -1,0 +1,1 @@
+This project analyzes sales patterns on various online platforms like Amazon, Flipkart, and Ajio using Excel spreadsheets. Insights from the data have helped store managers increase sales by optimizing strategies. Through this project, I enhanced my data analysis skills and gained a deeper understanding of e-commerce trends.
